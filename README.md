@@ -1,4 +1,4 @@
-# Apps Infraestruture
+# The Band Apps Infrastructure
 
 ## 🚀 Goal
 
